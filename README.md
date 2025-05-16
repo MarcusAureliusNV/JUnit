@@ -1,8 +1,3 @@
-# README - Calculadora de Descuentos
-
-## Objetivo  
-Implementar una calculadora de descuentos en Java con validaciones y pruebas unitarias, alcanzando al menos un 90% de funcionalidad.
-
 ## Estructura del Código
 
 ### Producto.java  
