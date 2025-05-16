@@ -29,5 +29,5 @@
   - Comprueba los distintos escenarios de descuento para cada categoría.
   - Verifica la condición VIP y el límite máximo de descuento.
   - Incluye pruebas para manejo de categorías inválidas.
-
+  - Las líneas 28-30 contenían un if que no se cumple nunca la función así que para mejorar en números lo he comentado.
  # Con esto se explica superficialmente el proceso de JUnit.
